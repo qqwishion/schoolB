@@ -1,0 +1,12 @@
+.venv
+.git
+__pycache__
+**/__pycache__
+.env
+db.sqlite3*
+media
+staticfiles
+backups
+*.log
+.local-accounts.txt
+test-results
